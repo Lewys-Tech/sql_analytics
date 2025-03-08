@@ -12,4 +12,4 @@ This repository contains SQL-based analysis of Walmart sales data to uncover ret
 - Customer purchasing patterns
 - Time-based sales fluctuations
 
-## Repository Structure
+
